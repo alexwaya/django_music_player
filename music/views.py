@@ -1,5 +1,5 @@
 from django.views import generic
-from django.views.geneneric.edit import CreateView, UpdateView, DeleteView
+from django.views.generic.edit import CreateView, UpdateView, DeleteView
 from .models import Album
 
 
